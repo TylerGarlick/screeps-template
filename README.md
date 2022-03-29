@@ -1,1 +1,4 @@
-# screeps-template
+# Screeps Template
+
+## Getting Started
+
